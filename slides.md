@@ -27,19 +27,70 @@
 
 ## What is a source-based linux distribution?
 
+- a standard linux distribution
+- "binary" packages
+- source-based packages
+- ease of configuration
+- rolling release
+
 -------------------------------------------
 
 ## So, it's Gentoo, right?
+
+Yes.
+
+. . .
+
+No.
+
+. . .
+
+- Sorcerer
+- Lunar-Linux
+- Source Mage
+
+. . .
+
+- Exherbo
 
 -------------------------------------------
 
 ## But, don't you have a job? Compiling is time consuming!
 
+. . .
+
+- less time than a cigaret break
+
+
+. . .
+
+- less than 10min/day average
+- everything in background
+- night work
+
+. . .
+
+- need your computer power? think Clever Cloud
+
 -------------------------------------------
 
 ## It still seems hard and boring, nothing is automatic :(
 
+- entry cost
+- ease of use
+- powerful
+- automation
+- binary packages
+
 -------------------------------------------
 
 ## Thanks
+
+<http://clever-cloud.com>
+
+<http://www.imagination-land.org>
+
+[\@Keruspe](https://twitter.com/Keruspe)
+
+[Keruspe on github](https://github.com/Keruspe)
 
