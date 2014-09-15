@@ -90,6 +90,8 @@ No.
 
 <http://www.imagination-land.org>
 
+[Marc-Antoine@Perennou.com](mailto:Marc-Antoine@Perennou.com)
+
 [\@Keruspe](https://twitter.com/Keruspe)
 
 [Keruspe on github](https://github.com/Keruspe)
