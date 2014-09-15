@@ -7,6 +7,11 @@
 ## What is a linux-based distribution?
 
 - a common kernel: linux
+
+<img src="assets/Tux.png" style="width: 20%; height: 20%" />
+
+. . .
+
 - a set of basic tools and software
 - a way to install new software
 - a graphical identity (sometimes)
@@ -36,6 +41,8 @@
 - ease of configuration
 - rolling release
 
+<img src="assets/yay.gif" style="margin-left: 30%; width: 20%; height: 20%" />
+
 -------------------------------------------
 
 ## So, it's Gentoo, right?
@@ -44,7 +51,7 @@ Yes.
 
 . . .
 
-No.
+No. <img src="assets/no.png" style="width: 20%; height: 20%" />
 
 . . .
 
@@ -56,14 +63,15 @@ No.
 
 - Exherbo
 
+<img src="assets/zebrapig.png" style="width: 10%; height: 10%" />
+
 -------------------------------------------
 
 ## But, don't you have a job? Compiling is time consuming!
 
 . . .
 
-- less time than a cigaret break
-
+- less time than a cigaret break <img src="assets/no-smoking.png" style="width: 5%; height: 5%" />
 
 . . .
 
@@ -74,12 +82,16 @@ No.
 . . .
 
 - need your computer power? think Clever Cloud
+<img src="assets/clever-cloud.png" style="margin-left: 30%; width: 20%; height: 20%" />
 
 -------------------------------------------
 
 ## It still seems hard and boring, nothing is automatic :(
 
 - entry cost
+
+. . .
+
 - ease of use
 - powerful
 
@@ -87,6 +99,8 @@ No.
 
 - automation
 - binary packages
+
+<img src="assets/seal.jpg" style="margin-left: 30%; width: 25%; height: 25%" />
 
 -------------------------------------------
 
