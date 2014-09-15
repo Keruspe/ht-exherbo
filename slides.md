@@ -9,7 +9,7 @@
 - a common kernel: linux
 - a set of basic tools and software
 - a way to install new software
-- a graphical indentity (sometimes)
+- a graphical identity (sometimes)
 
 -------------------------------------------
 
@@ -30,6 +30,9 @@
 - a standard linux distribution
 - "binary" packages
 - source-based packages
+
+. . .
+
 - ease of configuration
 - rolling release
 
@@ -66,7 +69,7 @@ No.
 
 - less than 10min/day average
 - everything in background
-- night work
+- night tasks
 
 . . .
 
@@ -79,6 +82,9 @@ No.
 - entry cost
 - ease of use
 - powerful
+
+. . .
+
 - automation
 - binary packages
 
