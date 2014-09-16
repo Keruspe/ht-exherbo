@@ -111,7 +111,17 @@
 
 - entry cost
 
-. . .
+-------------------------------------------
+
+## It still seems hard and boring, nothing is automatic :(
+
+- not only perfs
+
+<img src="assets/tuning.jpg" style="margin-left: 30%; width: 40%; height: 40%" />
+
+-------------------------------------------
+
+## It still seems hard and boring, nothing is automatic :(
 
 - ease of use
 - powerful
@@ -123,6 +133,14 @@
 ### binary packages
 
 <img src="assets/seal.jpg" style="margin-left: 30%; width: 40%; height: 40%" />
+
+-------------------------------------------
+
+## It still seems hard and boring, nothing is automatic :(
+
+### Community
+
+<img src="assets/community.jpg" style="margin-left: 30%; width: 40%; height: 40%" />
 
 -------------------------------------------
 
