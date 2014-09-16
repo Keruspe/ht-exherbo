@@ -6,15 +6,16 @@
 
 ## What is a linux-based distribution?
 
-- a common kernel: linux
+### a common kernel: linux
 
-<img src="assets/Tux.png" style="width: 20%; height: 20%" />
+<img src="assets/Tux.png" style="margin-left: 30%; width: 25%; height: 25%" />
 
-. . .
+-------------------------------------------
 
-- a set of basic tools and software
-- a way to install new software
-- a graphical identity (sometimes)
+## What is a linux-based distribution?
+
+### specific components
+### a graphical identity (sometimes)
 
 -------------------------------------------
 
@@ -32,38 +33,53 @@
 
 ## What is a source-based linux distribution?
 
-- a standard linux distribution
-- "binary" packages
-- source-based packages
+### a standard linux distribution
 
-. . .
+-------------------------------------------
+
+## What is a source-based linux distribution?
+
+### a standard linux distribution
+
+### but not only
+
+-------------------------------------------
+
+## What is a source-based linux distribution?
+
 
 - ease of configuration
 - rolling release
 
-<img src="assets/yay.gif" style="margin-left: 30%; width: 20%; height: 20%" />
+<img src="assets/yay.gif" style="margin-left: 30%; width: 35%; height: 35%" />
 
 -------------------------------------------
 
 ## So, it's Gentoo, right?
 
-Yes.
+<img src="assets/yes.jpg" style="margin-left: 25%" />
 
-. . .
+-------------------------------------------
 
-No. <img src="assets/no.png" style="width: 20%; height: 20%" />
+## So, it's Gentoo, right?
 
-. . .
+<img src="assets/no.png" style="margin-left: 25%" />
+
+-------------------------------------------
+
+## So, it's Gentoo, right?
 
 - Sorcerer
 - Lunar-Linux
 - Source Mage
 
-. . .
+-------------------------------------------
 
-- Exherbo
+## So, it's Gentoo, right?
 
-<img src="assets/zebrapig.png" style="width: 10%; height: 10%" />
+### Exherbo
+
+<img src="assets/zebrapig.png" style="margin-left: 30%; width: 40%; height: 40%" />
 
 -------------------------------------------
 
@@ -71,18 +87,23 @@ No. <img src="assets/no.png" style="width: 20%; height: 20%" />
 
 . . .
 
-- less time than a cigaret break <img src="assets/no-smoking.png" style="width: 5%; height: 5%" />
+- less time than a cigaret break
 
-. . .
+<img src="assets/no-smoking.png" style="margin-left: 30%; width: 40%; height: 40%" />
 
-- less than 10min/day average
-- everything in background
-- night tasks
+-------------------------------------------
 
-. . .
+## But, don't you have a job? Compiling is time consuming!
+
+### think background!
+
+-------------------------------------------
+
+## But, don't you have a job? Compiling is time consuming!
 
 - need your computer power? think Clever Cloud
-<img src="assets/clever-cloud.png" style="margin-left: 30%; width: 20%; height: 20%" />
+
+<img src="assets/clever-cloud.png" style="margin-left: 30%; width: 40%; height: 40%" />
 
 -------------------------------------------
 
@@ -95,12 +116,13 @@ No. <img src="assets/no.png" style="width: 20%; height: 20%" />
 - ease of use
 - powerful
 
-. . .
+-------------------------------------------
 
-- automation
-- binary packages
+## It still seems hard and boring, nothing is automatic :(
 
-<img src="assets/seal.jpg" style="margin-left: 30%; width: 25%; height: 25%" />
+### binary packages
+
+<img src="assets/seal.jpg" style="margin-left: 30%; width: 40%; height: 40%" />
 
 -------------------------------------------
 
